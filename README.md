@@ -2,7 +2,7 @@
 
 <h4>This project involves wireless communication from Arduino Microcontroller to an Android App usig the HC-05 Bluetooth Module. An ultrasonic sensor (HC-SR04) has been used to detect if a person comes near the system and this gets detected on the App with a green signal and otherwise a red signal.</h4>
 
-<br><br><h3><u>Flow of data</u></h3>
+<br><h3>Flow of data</h3>
 <h4>Ultrasonic sensor -> Arduino -> Bluetooth Module -> Application</h4>
 <br>
 <h4>The Application was developed using MIT App Inventor</h4>
